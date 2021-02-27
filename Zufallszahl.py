@@ -16,7 +16,6 @@ while zahl != zufallsZahl:
         else:
             print("Bitte geben Sie eine Zahl zwischen 0 und 100 ein")
         
-
     except ValueError:
         print("Es sind nur Zahlen erlaubt")
 
